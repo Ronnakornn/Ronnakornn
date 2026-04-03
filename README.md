@@ -1,109 +1,168 @@
-<h1 align="center">Hi 👋, I'm Ronnako Seachang</h1>
-<h3 align="center">Fullstack Software Engineer | System Design | Scalable Backend</h3>
-
----
-
-## 🚀 About Me
-
-I am a Fullstack Software Engineer with 6+ years of experience building scalable web applications and backend systems.
-
-- 💻 Experienced in designing and developing end-to-end systems (Frontend + Backend + Database)
-- ⚡ Strong in backend architecture, performance optimization, and API design
-- 🏗 Experienced in building scalable SaaS and booking systems
-- 🔍 Focused on clean code, maintainability, and real-world problem solving
-- 🚀 Passionate about system design, DevOps, and high-performance applications
-
----
-
-## 🧠 Technical Skills
-
-### Backend Engineering
-- Laravel (REST API, Queues, Jobs, Event-driven)
-- Node.js (ElysiaJS / Express)
-- API Design (RESTful, scalable architecture)
-- Authentication & RBAC systems
-
-### Frontend Engineering
-- Next.js (App Router, SSR/CSR)
-- React + TypeScript
-- State Management (TanStack Query, Zustand)
-
-### Database & Performance
-- PostgreSQL / MySQL
-- Prisma / Drizzle ORM
-- Query optimization & indexing
-- Caching (Redis)
-
-### System & DevOps
-- Docker
-- Nginx (Reverse Proxy)
-- Linux (Ubuntu)
-- CI/CD (GitHub Actions)
-- Basic Cloud (DigitalOcean / Vercel)
-
----
-
-## 🏗 Selected Projects
-
-### 🛥 Booking System (SaaS)
-- Multi-tenant architecture
-- Affiliate tracking & commission system
-- Payment integration (Stripe / QR)
-- Booking availability & real-time updates
-
-👉 Highlights:
-- Designed scalable database schema
-- Implemented business logic for real-world usage
-- Optimized queries for performance
-
----
-
-### 💬 Realtime Chat System
-- Built with Expo + Supabase + TanStack Query
-- Offline-first architecture
-- Pagination & realtime sync
-
-👉 Highlights:
-- Efficient data fetching strategy
-- Optimized UI performance for large message sets
-
----
-
-### 📈 CRM & Financial Integration
-- Integrated trading systems (MT4 / cTrader APIs)
-- Built customer management & reporting system
-- Handled real-time data and external APIs
-
-👉 Highlights:
-- API integration with external services
-- Data consistency & reliability
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">🕹️ Hi, I'm Ronnako Seachang 👾</h1>
+<h3 align="center">Fullstack Software Engineer | Backend & System Design Focus</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer+Mindset;Laravel+%7C+Next.js+%7C+PostgreSQL;Scalable+Systems+%7C+Ecommerce+%7C+Booking;System+Design+%7C+DevOps+%7C+Performance" />
 </p>
 
 ---
 
-## 🎯 What I Bring
+## 🎮 PLAYER PROFILE
 
-- Strong problem-solving mindset
-- Ability to design systems from scratch
-- Experience working with real users & production systems
-- Fast learner with ownership mentality
-
----
-
-## 📫 Contact
-
-- Email: your@email.com
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
+Name         : Ronnako Seachang  
+Role         : Fullstack Software Engineer  
+Specialty    : Backend / System Design  
+Experience   : 6+ Years  
+Focus        : Scalable Systems / Real-world Applications  
+Stack        : Laravel, Next.js, TypeScript, PostgreSQL, Redis, Docker  
 
 ---
 
-## ⚡ Philosophy
+## 🚀 ABOUT ME
 
-> Build systems that scale, not just features that work.
+I build **production-ready systems** with a focus on scalability, performance, and real business impact.
+
+- ⚔️ Strong in backend architecture, API design, and database modeling  
+- 🏗️ Experience building booking systems, ecommerce platforms, CRM, and SaaS  
+- 🚀 Focused on scalability, maintainability, and performance optimization  
+- 🧠 Interested in system design, DevOps, and high-load systems  
+- 🎯 Goal: Build systems that scale and generate real business value  
+
+---
+
+## 🧰 TECH INVENTORY
+
+### ⚙️ Backend Engineering
+- Laravel (REST API, Queues, Jobs, Event-driven)
+- Node.js (ElysiaJS / Express)
+- Authentication / RBAC / Multi-tenant systems
+
+### 🖥️ Frontend Engineering
+- Next.js (App Router, SSR/CSR)
+- React + TypeScript
+- TanStack Query / Zustand
+
+### 🗄️ Database & Performance
+- PostgreSQL / MySQL
+- Prisma / Drizzle ORM
+- Query optimization / indexing
+- Redis (Caching / Queue)
+
+### ☁️ DevOps / Infrastructure
+- Docker
+- Nginx (Reverse Proxy)
+- Ubuntu / Linux
+- GitHub Actions (CI/CD)
+- DigitalOcean / Vercel
+
+---
+
+## 🕹️ FEATURED SYSTEMS
+
+### 🛒 Ecommerce Order Management System
+Production-grade ecommerce platform designed for scalability and business operations.
+
+Core Features:
+- Product catalog, category, and inventory management  
+- Cart, checkout, and order lifecycle  
+- Payment integration (Stripe / QR)  
+- Promotion / coupon engine  
+- Admin dashboard for operations  
+
+Engineering Highlights:
+- Clean domain separation (Product / Order / Payment)  
+- Scalable order flow with reliable state transitions  
+- Optimized database queries for high-read scenarios  
+- Ready to evolve into marketplace / multi-vendor system  
+
+---
+
+### 🛥 Multi-tenant Booking Platform
+Scalable SaaS booking system with real-world business logic.
+
+Core Features:
+- Multi-tenant architecture  
+- Booking availability & scheduling  
+- Affiliate tracking and commission system  
+- Payment and customer management  
+
+Engineering Highlights:
+- Tenant-aware architecture  
+- Complex booking flow logic  
+- Scalable database design for reporting  
+- Performance optimization for real usage  
+
+---
+
+### 💬 Realtime Chat Architecture
+High-performance messaging system with modern frontend architecture.
+
+Core Features:
+- Realtime messaging  
+- Pagination and efficient data loading  
+- Offline-first support  
+
+Engineering Highlights:
+- Optimized data fetching strategy  
+- Designed for large-scale message handling  
+- Focus on UX performance  
+
+---
+
+### 📈 CRM & External Integration Platform
+Business system integrating external APIs and financial workflows.
+
+Core Features:
+- Customer management and reporting  
+- External API integration (trading systems)  
+- Data processing and analytics  
+
+Engineering Highlights:
+- Data consistency across systems  
+- Real-time external data handling  
+- Reliable integration layer  
+
+---
+
+## 🏆 STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent" height="165" />
+</p>
+
+---
+
+## 🎯 ENGINEERING MINDSET
+
+- Build systems, not just features  
+- Design for scale from the beginning  
+- Focus on real-world usage and business impact  
+- Balance performance, maintainability, and speed  
+
+---
+
+## 📌 PINNED REPOSITORIES
+
+- scalable-ecommerce-system  
+- multi-tenant-booking-platform  
+- realtime-chat-architecture  
+- nextjs-laravel-saas-template  
+
+---
+
+## 📫 CONTACT
+
+- Email: your@email.com  
+- LinkedIn: https://linkedin.com/in/YOUR_LINK  
+
+---
+
+## 🧠 FINAL BOSS PHILOSOPHY
+
+Build like an engineer, think like a product owner.  
+Focus on systems that scale and deliver real value.
