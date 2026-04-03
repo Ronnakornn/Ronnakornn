@@ -127,12 +127,12 @@ Engineering Highlights:
 ## 🏆 STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronnakonsc-1047&show_icons=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?ronnakonsc-1047=YOUR_USERNAME&layout=compact&theme=transparent" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Ronnakornn&theme=transparent" height="165" />
 </p>
 
 ---
@@ -157,8 +157,7 @@ Engineering Highlights:
 
 ## 📫 CONTACT
 
-- Email: your@email.com  
-- LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- Email: ronnakon.sc@email.com  
 
 ---
 
