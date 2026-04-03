@@ -1,76 +1,109 @@
-<h1 align="center">Hi 👋, I'm Ronnako</h1>
-<h3 align="center">Fullstack Developer | SaaS Builder | DevOps Learner</h3>
+<h1 align="center">Hi 👋, I'm Ronnako Seachang</h1>
+<h3 align="center">Fullstack Software Engineer | System Design | Scalable Backend</h3>
 
 ---
 
 ## 🚀 About Me
-- 💻 Fullstack Developer (Laravel + Next.js)
-- ⚡ Building scalable SaaS & Booking Systems
-- 🔥 Interested in DevOps, Automation, and AI
-- 📈 Goal: Build products that generate real revenue ($25K/month)
-- 🌱 Currently learning: Clean Architecture + DDD + System Design
+
+I am a Fullstack Software Engineer with 6+ years of experience building scalable web applications and backend systems.
+
+- 💻 Experienced in designing and developing end-to-end systems (Frontend + Backend + Database)
+- ⚡ Strong in backend architecture, performance optimization, and API design
+- 🏗 Experienced in building scalable SaaS and booking systems
+- 🔍 Focused on clean code, maintainability, and real-world problem solving
+- 🚀 Passionate about system design, DevOps, and high-performance applications
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Technical Skills
 
-### Backend
-- Laravel, PHP
+### Backend Engineering
+- Laravel (REST API, Queues, Jobs, Event-driven)
 - Node.js (ElysiaJS / Express)
+- API Design (RESTful, scalable architecture)
+- Authentication & RBAC systems
+
+### Frontend Engineering
+- Next.js (App Router, SSR/CSR)
+- React + TypeScript
+- State Management (TanStack Query, Zustand)
+
+### Database & Performance
+- PostgreSQL / MySQL
 - Prisma / Drizzle ORM
+- Query optimization & indexing
+- Caching (Redis)
 
-### Frontend
-- Next.js (App Router)
-- React / TypeScript
-- TailwindCSS / Shadcn UI
-
-### Database & Infra
-- PostgreSQL
-- Supabase
-- Redis / BullMQ
-
-### DevOps
+### System & DevOps
 - Docker
-- Nginx
-- DigitalOcean / Ubuntu
+- Nginx (Reverse Proxy)
+- Linux (Ubuntu)
 - CI/CD (GitHub Actions)
+- Basic Cloud (DigitalOcean / Vercel)
+
+---
+
+## 🏗 Selected Projects
+
+### 🛥 Booking System (SaaS)
+- Multi-tenant architecture
+- Affiliate tracking & commission system
+- Payment integration (Stripe / QR)
+- Booking availability & real-time updates
+
+👉 Highlights:
+- Designed scalable database schema
+- Implemented business logic for real-world usage
+- Optimized queries for performance
+
+---
+
+### 💬 Realtime Chat System
+- Built with Expo + Supabase + TanStack Query
+- Offline-first architecture
+- Pagination & realtime sync
+
+👉 Highlights:
+- Efficient data fetching strategy
+- Optimized UI performance for large message sets
+
+---
+
+### 📈 CRM & Financial Integration
+- Integrated trading systems (MT4 / cTrader APIs)
+- Built customer management & reporting system
+- Handled real-time data and external APIs
+
+👉 Highlights:
+- API integration with external services
+- Data consistency & reliability
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 🎯 What I Bring
 
-### 🛥 Ferry Booking System
-- Multi-tenant SaaS (Laravel + Next.js)
-- Affiliate system + Payment integration
-- Real-world production-ready
-
-### 💬 Realtime Chat App
-- Expo + Supabase + TanStack Query
-- Offline-first architecture
-
-### 🛒 E-commerce Platform
-- Next.js + Elysia + PostgreSQL
-- Clean Architecture + scalable design
+- Strong problem-solving mindset
+- Ability to design systems from scratch
+- Experience working with real users & production systems
+- Fast learner with ownership mentality
 
 ---
 
-## 🌐 Connect with Me
+## 📫 Contact
 
-- 📧 Email: Ronnakon.sc@email.com
+- Email: your@email.com
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
 
 ---
 
-## ⚡ Fun Fact
-I don't just write code — I build systems that make money 💰
+## ⚡ Philosophy
+
+> Build systems that scale, not just features that work.
